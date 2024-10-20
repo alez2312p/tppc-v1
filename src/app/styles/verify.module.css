@@ -1,0 +1,40 @@
+.main_verify {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main_verify h1 {
+  font-size: 1.5rem;
+  margin: 1rem;
+}
+
+.text_end {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 1rem;
+}
+
+.email_form_row {
+  display: flex;
+  flex-direction: row;
+  margin: 0.5rem;
+}
+
+.email_form_row label {
+  width: 10rem;
+}
+
+.email_form_row input {
+  color: black;
+}
+
+.email_form_button {
+  background-color: blanchedalmond;
+  color: black;
+  width: 10rem;
+  border-radius: 1rem;
+}
