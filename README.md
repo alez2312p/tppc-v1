@@ -1,4 +1,4 @@
-This is a [sitio web](https://hacklatam.vercel.app/) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [sitio web](https://hacklatam.vercel.app/) project.js
 
 ## Getting Started
 
